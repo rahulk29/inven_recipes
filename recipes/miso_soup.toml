@@ -1,0 +1,10 @@
+name = "miso-soup"
+kind = "recipe"
+
+[ingredients]
+tofu = 1
+dried-seaweed = "to taste"
+green-onion = 0.5
+miso-paste = "2 tbsp"
+dashi = "2 tbsp"
+

@@ -1,0 +1,8 @@
+name = "breakfast-salmon"
+kind = "recipe"
+
+[ingredients]
+salmon = 1
+salt = "1 tbsp"
+pepper = "1 tbsp"
+

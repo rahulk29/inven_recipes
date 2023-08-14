@@ -1,0 +1,9 @@
+name = "steak"
+kind = "recipe"
+
+[ingredients]
+steak-beef = 1
+
+salt = "1 tbsp"
+pepper = "1 tbsp"
+

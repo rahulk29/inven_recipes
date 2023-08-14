@@ -1,0 +1,7 @@
+name = "cabbage-bacon"
+kind = "recipe"
+
+[ingredients]
+cabbage = 1
+bacon = 1
+

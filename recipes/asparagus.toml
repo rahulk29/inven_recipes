@@ -1,0 +1,9 @@
+name = "asparagus"
+kind = "recipe"
+
+[ingredients]
+asparagus = 1
+lemon = 1
+garlic = 0.5
+
+olive-oil = "3 tbsp"

@@ -1,0 +1,6 @@
+name = "bread"
+kind = "recipe"
+
+[ingredients]
+bread = 1
+

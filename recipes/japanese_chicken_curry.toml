@@ -1,0 +1,9 @@
+name = "japanese-chicken-curry"
+kind = "recipe"
+
+[ingredients]
+chicken = 1
+
+soy-sauce = "1 tbsp"
+cornstarch = "1 tbsp"
+peanuts = { quantity = "1 handful", optional = true }

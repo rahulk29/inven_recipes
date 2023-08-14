@@ -1,0 +1,9 @@
+name = "chicken-thigh"
+kind = "recipe"
+
+[ingredients]
+chicken-thigh = 1
+
+salt = "1 tbsp"
+pepper = "1 tbsp"
+

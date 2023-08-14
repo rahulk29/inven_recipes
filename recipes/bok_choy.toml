@@ -1,0 +1,9 @@
+name = "bok-choy"
+kind = "recipe"
+
+[ingredients]
+bok-choy = 1
+
+garlic = 0.5
+salt = "1 tbsp"
+

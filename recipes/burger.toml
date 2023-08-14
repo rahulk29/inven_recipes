@@ -1,0 +1,13 @@
+name = "burger"
+kind = "recipe"
+
+[ingredients]
+burger-patty = 8
+burger-bun = 8
+lettuce = 1
+tomato = 2
+onion = 1
+
+cheese = "to taste"
+ketchup = "to taste"
+pickle = "to taste"

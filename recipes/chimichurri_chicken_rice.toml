@@ -1,0 +1,19 @@
+name = "chimichurri-chicken-rice"
+kind = "recipe"
+
+[ingredients]
+
+chicken=2
+garlic=0.5
+onion=1
+parsley=1
+cilantro=1
+red-bellpepper=2
+lemon=1
+
+chicken-boullion="to taste"
+oregano={quantity="pinch", optional=true}
+cumin={quantity="pinch", optional=true}
+salt={quantity="pinch", optional=true}
+pepper={quantity="pinch", optional=true}
+

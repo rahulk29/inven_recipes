@@ -1,0 +1,8 @@
+name = "granola-yogurt"
+kind = "recipe"
+
+[ingredients]
+granola = "to taste"
+yogurt = 1
+fruit = 1
+
