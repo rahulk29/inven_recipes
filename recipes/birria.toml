@@ -1,0 +1,14 @@
+name = "birria"
+kind = "recipe"
+
+[ingredients]
+stew-beef = 1
+white-onion = 1
+tomato = 2
+garlic = 0.5
+
+ancho-chili = "1 chili"
+guajillo-chili = "8 chili"
+pasilla-chili = "2 chili"
+bay-leaves = "a few"
+cinammon-stick = "1 stick"

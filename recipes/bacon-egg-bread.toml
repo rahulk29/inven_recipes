@@ -1,0 +1,7 @@
+name = "bacon-egg-bread"
+kind = "recipe"
+
+[ingredients]
+bread = 1
+bacon = 1
+egg = 12
