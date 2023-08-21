@@ -1,0 +1,6 @@
+name = "gyoza"
+kind = "recipe"
+
+[ingredients]
+gyoza = 1
+

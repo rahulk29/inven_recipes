@@ -6,7 +6,7 @@ burger-patty = 8
 burger-bun = 8
 lettuce = 1
 tomato = 2
-onion = 1
+white-onion = 0.5
 
 cheese = "to taste"
 ketchup = "to taste"

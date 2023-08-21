@@ -1,0 +1,11 @@
+name = "masoor-dal"
+kind = "recipe"
+
+[ingredients]
+red-onion = 1
+tomato = 2
+
+cilantro = 0.25
+lime = 0.5
+green-chili = "a few"
+

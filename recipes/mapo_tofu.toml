@@ -1,0 +1,12 @@
+name = "mapo-tofu"
+kind = "recipe"
+
+[ingredients]
+tofu = 1
+ground-beef = 1
+green-onion = 1
+
+white-pepper = "pinch"
+salt = "pinch"
+doubanjiang = "2 tbsp"
+

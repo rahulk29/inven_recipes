@@ -1,0 +1,9 @@
+name = "indian-chicken-curry"
+kind = "recipe"
+
+[ingredients]
+chicken = 2
+tomato = 4
+red-onion = 1
+green-chili = "a few"
+
