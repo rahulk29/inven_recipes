@@ -1,0 +1,16 @@
+name = "chimichurri-sauce"
+kind = "recipe"
+
+[ingredients]
+
+garlic = 0.5
+parsley = 1
+cilantro = 1
+lemon = 1
+
+olive-oil = "2 tbsp"
+oregano = {quantity = "pinch", optional = true}
+cumin = {quantity = "pinch", optional = true}
+salt = {quantity = "pinch", optional = true}
+pepper = {quantity = "pinch", optional = true}
+

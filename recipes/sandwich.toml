@@ -1,0 +1,19 @@
+name = "sandwich"
+kind = "recipe"
+
+[ingredients]
+sandwich-bread = 1
+deli-slices = 1
+lettuce = 1
+tomato = 1
+red-onion = 0.5
+sliced-cheese = 1
+
+canned-olives = { quantity = "0.5 can", optional = true }
+ketchup = "to taste"
+mayo = "to taste"
+mustard = "to taste"
+pickle = "to taste"
+salt = "to taste"
+pepper = "to taste"
+

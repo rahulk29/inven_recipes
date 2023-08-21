@@ -1,0 +1,13 @@
+name = "aloo-gobi"
+kind = "recipe"
+
+[ingredients]
+cauliflower = 1
+potato = 2
+red-onion = 1
+tomato = 2
+
+cilantro = 0.25
+lime = 0.5
+green-chili = "a few"
+
