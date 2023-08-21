@@ -3,7 +3,13 @@ kind = "recipe"
 
 [ingredients]
 chicken = 1
+ginger = 1
+yellow-onion = 1
+potato = 3
+carrots = 4
+curry-cubes = 1
+garlic = 0.25
 
+chicken-boullion = "1 tbsp"
 soy-sauce = "1 tbsp"
 cornstarch = "1 tbsp"
-peanuts = { quantity = "1 handful", optional = true }
